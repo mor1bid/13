@@ -1,4 +1,4 @@
-package Java;
+package JavaOOP1;
 import java.util.*;
 
 public class Program
